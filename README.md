@@ -14,6 +14,6 @@ Now run the Nmap_Scanner.py using Python 3.X.X
 
 Note: It is mandatory to install PySimpleGUI as the tools is built using GUI with the dependency of "PySimpleGUI".
 
-Please find the prview of the tool below. (Note: Preview contains a sample result)
+Please find the preview of the tool below. (Note: Preview contains a sample result)
 
 ![image](https://github.com/Srikanth-Rudrarapu/Nmap_Scanner_V2.0/assets/150809589/213010fd-e138-4c3a-9ab3-cfd4cacf1ec9)
