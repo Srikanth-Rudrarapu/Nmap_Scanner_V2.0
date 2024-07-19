@@ -2,6 +2,8 @@
 
 Prerequisites - (This was tested in Windows 10 machine with Python 3.12.4)
 
+Nmap in windows should be installed.
+
 Install python using Python official site or Microsoft store.
 
 Ensure to add the Python in evironment PATH variable.
